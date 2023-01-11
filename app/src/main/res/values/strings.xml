@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Torch Light</string>
+    <string name="mainImage">MainImage</string>
+    <string name="turnOn">Turn On</string>
+    <string name="turnOff">Turn Off</string>
+</resources>
